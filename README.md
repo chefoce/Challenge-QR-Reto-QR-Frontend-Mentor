@@ -18,8 +18,8 @@ Esta es la solucion al reto de Frontend Mentor con el objetivo de mejorar mis ha
   Es es el primer reto de la pagina Frotend Mentor, el objetico de este reto es introducirte a la plataforma y la forma en que se utiliza.
 ### Screenshot
 
-![Desktop/Escritorio](design/desktop-preview.jpg)
-![Mobile/Movil](design/mobile-preview.jpg)
+![Desktop/Escritorio](design/desktop-design.jpg)
+![Mobile/Movil](design/mobile-design.jpg)
 
 ### Links
 /*Pendiente*/
